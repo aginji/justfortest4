@@ -1,2 +1,4 @@
 This is test for justfortest4 repo
 Playing with git continues
+Some more text for another commit
+And some more for yet another commit
